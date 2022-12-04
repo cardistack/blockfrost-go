@@ -18,6 +18,8 @@ type NetworkSupply struct {
 	Total       string `json:"total"`
 	Circulating string `json:"circulating"`
 	Locked      string `json:"locked"`
+	Treasury    string `json:"treasury"`
+	Reserves      string `json:"reserves"`
 }
 
 // NetworkStake contains information on the cardano network stake
