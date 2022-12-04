@@ -1,4 +1,4 @@
-module github.com/blockfrost/blockfrost-go
+module github.com/cardistack/blockfrost-go
 
 go 1.17
 
